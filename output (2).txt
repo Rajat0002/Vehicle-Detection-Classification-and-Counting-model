@@ -1,0 +1,2 @@
+[[], [Pair@66a29884, Pair@4769b07b], [Pair@cc34f4d, Pair@17a7cec2, Pair@65b3120a], [Pair@6f539caf, Pair@79fc0f2f, Pair@50040f0c], [Pair@2dda6444, Pair@5e9f23b4], [Pair@4783da3f, Pair@378fd1ac]]
+1 2 5 
